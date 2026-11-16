@@ -73,7 +73,7 @@ FitnessLibrary is designed as a fitness-focused Android application with an emph
 | Name | SRN | Class |
 |---|---|---|
 | Aniket Sen | PES1UG24CS062  | 5A |
-| Member 2 | Enter SRN | Enter Class |
+| Krishna Jha | PES1UG24CS236 | 5D |
 | Member 3 | Enter SRN | Enter Class |
 
 ## License
